@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Negar Haghpanahi</h1>
 <h3 align="center">A passionate data engineer</h3>
+<img align="right" alt="Coding width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KfQBzHE-UQ9GZDpiJU0K9GnO_GDocAM-0u5P7o-IPODPkieCWrawoMOr8rnDCKDfu0k&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negar-haghpanahi&label=Profile%20views&color=0e75b6&style=flat" alt="negar-haghpanahi" /> </p>
 
