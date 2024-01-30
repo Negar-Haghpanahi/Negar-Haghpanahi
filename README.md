@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negar-haghpanahi&label=Profile%20views&color=0e75b6&style=flat" alt="negar-haghpanahi" /> </p>
 
-- 🔭 I’m currently working on **Web-Scrapping**
+- 🔭 I’m currently working on **ibime web application**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **negarhaghpanahi@gmail.com**
 
