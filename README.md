@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ibime web application**
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **LangChain**
 
 - 📫 How to reach me **negarhaghpanahi@gmail.com**
 
