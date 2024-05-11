@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LangChain**
 
-- 📫 How to reach me **negarhaghpanahi@gmail.com**
+- 📫 How to reach me **haghpanahinegar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
